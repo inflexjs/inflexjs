@@ -77,3 +77,23 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   </div>
 </div>
+
+<h2> Projects </h2>
+
+<h3> Pet </h3>
+
+[crud-golang](https://github.com/inflexjs/crud-backend) - Базовый CRUD(Create, read, update, delete) сервер на Go.  
+[takeiteasy](https://github.com/inflexjs/takeiteasy) - Недописанный сервис по хранению файлов с определенными настройками. Vue - Front, Nest - Back.  
+[authorization-fullstack](https://github.com/inflexjs/authorization-fullstack) - MEVN - Mongo, Express, Vue2, Node. Авторизация с помощью jwt refresh and access токенов.  
+
+<h3> Commercial </h3>
+
+[Сделкин](http://realquad.ru/login) - CRM System для продажи недвижимости.  
+[ПродамВино](http://89.108.71.149/) - Сайт для продажи/обмена алкогольных напитков.  
+[Финакс](https://lk.finaxe.ru/login) - CRM fintech system с банковскими интеграциями.  
+
+<h3> Test tasks </h3>  
+
+[tarkovhelp-test](https://github.com/inflexjs/tarkovhelp-test) - Тестовое задание на базовые знания HTML/SCSS/JS от Tarkov.Help.  
+[weather-widget](https://github.com/inflexjs/weather-widget) - Тестовое задание на знание Vue, JS/TS, NPM, One-component, REST API.
+
