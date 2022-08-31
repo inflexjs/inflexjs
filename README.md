@@ -1,8 +1,13 @@
 <div align="center">
   <img  height="100" src="https://psv4.vkuseraudio.net/s/v1/d/242LQTqG-sFIaznn5GyeePNAdlHiDZUlKmnNeZx3vANdNXHG_zCOtTzitqUToiELLgjg0yxlSl4YbUIYdOob9grKdZuJp6hNygMYddPt2qbIDL_GAvk9cQ/yy3.gif"/>
-  <h3>
-    Contact me 💌
-  </h3>
+  <p> Привет! Я <a href="https://github.com/inflexjs">@inflexjs</a> (Виталий Попов) 👋 </p>
+  <p> Junior+ frontend developer с опытом работы в один год, пол года которых ушли на коммерческую разработку финтех продукта в банковской сфере на позиции Vue developer. Рефакторинг чужого кода, написание UI компонентов, фиксы, тесты. Разработка лендингов, crm-систем, интернет-магазинов, SSR приложений. Пообщался с клёвой командой дизайнеров/бэкендеров/проджект менеджеров/сео/маркетологов и получил отличный опыт офлайн работы в офисе.</p>
+  <p> Так же могу немного в backend. Знаю Nest, Express. Пробовал GO (Golang). Реляционные и нереляционные базы данных. Опыт написания api под свои нужды.</p>
+  
+  ```Формат работы: полностью удаленная работа```
+  ```Занятость: полная / сдельная```
+  ```Локация: без релокейта```
+  
   <a target="_blank" href="https://t.me/inflex_myr">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
@@ -15,8 +20,8 @@
 </div>
 
 <div>
-  <h2> Skills </h2>
-  <h3> Frontend </h3>
+  <h2> Навыки </h2>
+  <h3> Frontend (Основной стэк) </h3>
   <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white"/>
@@ -78,22 +83,23 @@
   </div>
 </div>
 
-<h2> Projects </h2>
+<h2> Проекты </h2>
 
-<h3> Pet </h3>
+<h3> Пэт </h3>
 
 [crud-golang](https://github.com/inflexjs/crud-backend) - Базовый CRUD(Create, read, update, delete) сервер на Go.  
 [takeiteasy](https://github.com/inflexjs/takeiteasy) - Недописанный сервис по хранению файлов с определенными настройками. Vue - Front, Nest - Back.  
 [authorization-fullstack](https://github.com/inflexjs/authorization-fullstack) - MEVN - Mongo, Express, Vue2, Node. Авторизация с помощью jwt refresh and access токенов.  
 
-<h3> Commercial </h3>
+<h3> Коммерческие </h3>
 
 [Сделкин](http://realquad.ru/login) - CRM System для продажи недвижимости.  
-[ПродамВино](http://89.108.71.149/) - Сайт для продажи/обмена алкогольных напитков.  
+[ПродамВино](https://prodamvino.ru/) - Сайт для продажи/обмена алкогольных напитков.  
 [Финакс](https://lk.finaxe.ru/login) - CRM fintech system с банковскими интеграциями.  
 
-<h3> Test tasks </h3>  
+<h3> Тестовые задания </h3>  
 
 [tarkovhelp-test](https://github.com/inflexjs/tarkovhelp-test) - Тестовое задание на базовые знания HTML/SCSS/JS от Tarkov.Help.  
-[weather-widget](https://github.com/inflexjs/weather-widget) - Тестовое задание на знание Vue, JS/TS, NPM, One-component, REST API.
+[weather-widget](https://github.com/inflexjs/weather-widget) - Тестовое задание на знание Vue, JS/TS, NPM, One-component, REST API.  
+[image-viewer](https://github.com/inflexjs/image-viewer) - Vue, Vuex, TS, PWA, LocalStorage. Приложение для загрузки и просмотра картинок с возможностью изменять параметры списывания.
 
