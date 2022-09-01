@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/VueX-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/VueRouter-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
   </div>
+   <div>
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+  </div>
   <div>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
@@ -72,6 +75,9 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   </div>
@@ -79,6 +85,10 @@
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
     <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=white"/>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
   </div>
 </div>
 
