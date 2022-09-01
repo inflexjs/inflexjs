@@ -6,7 +6,6 @@
   
   ```Формат работы: полностью удаленная работа```  
   ```Занятость: полная / сдельная```
-  ```Ожидания по зарплате: от 50 000 р / 300 р/ч```
   
   <a target="_blank" href="https://t.me/inflex_myr">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/>
