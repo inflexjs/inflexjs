@@ -7,7 +7,7 @@
   <a target="_blank" href="mailto:inflex_off@vk.com">
     <img src="https://img.shields.io/badge/Mail-0094F5?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://t.me/Blex_PY">
+  <a target="_blank" href="https://vk.com/inflexx">
     <img src="https://img.shields.io/badge/Vkontakte-0077FF?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
 </div>
